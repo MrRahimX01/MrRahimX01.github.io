@@ -1,0 +1,26 @@
+Package: Ufing
+Version: 1.0.0
+Architecture: all
+Maintainer: Mr Rahim / Bleedy
+Installed-Size: 9784
+Filename: ./Ufing.deb
+Size: 9842056
+MD5sum: 8c49219ac0d11561fb8af97862d43e7a
+SHA1: 4c79e22060f7cd29bf1552c341f9a098115ee3e7
+SHA256: 835a236f6893eaf525544b077a6bb214bf66e17663f01d01b8c023190c7fdd30
+Homepage: none
+Description: Ufing is a command line utility to enumrate subdomain and filter valids
+
+Package: diff
+Version: 1.0.0
+Architecture: all
+Maintainer: MrRahimX01
+Installed-Size: 9764
+Filename: ./Diff.deb
+Size: 9819704
+MD5sum: 56dd82d8d71941de78afc0e70af9af2a
+SHA1: 693f73fd35fa89b5b7694ba46c123259eca12e1c
+SHA256: 4573eeb8fe62e36f4e13cd3d7d02eea710463277c561b027639424c53925db22
+Homepage: https://github.com/MrRahimX01/diff
+Description: Diff is used to bruteoforce webapp directries
+
